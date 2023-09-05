@@ -1,0 +1,81 @@
+.default-footer-wrapper {
+  position: relative;
+  top: 100%;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.default-footer-wrapper-content {
+  position: relative;
+  top: 10px;
+}
+
+.tong-dai-phone {
+  border-radius: 50%;
+  border: 1px solid chartreuse;
+  color: chartreuse;
+  width: 40px;
+  height: 35px;
+  position: relative;
+  right: 10px;
+}
+
+.tong-dai-content {
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.tong-dai-address {
+  position: relative;
+  left: 125px;
+  top: -20px;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.tong-dai-icon {
+  position: relative;
+  top: 15px;
+}
+.tong-dai-icon-goole {
+  position: relative;
+  right: 70px;
+  width: 45px;
+  height: 45px;
+}
+.tong-dai-icon-fb {
+  position: relative;
+  left: 30px;
+  width: 45px;
+  height: 45px;
+}
+
+.tong-dai-icon-twi {
+  position: relative;
+  left: 100px;
+  width: 45px;
+  height: 45px;
+}
+
+.tong-dai-icon-ins {
+  position: relative;
+  left: 200px;
+  width: 45px;
+  height: 45px;
+}
+
+.list-unstyled li a {
+  text-decoration: none;
+  color: black;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.footer-copyright {
+  height: 45px;
+  border-top: 1px solid rgb(87, 80, 80);
+}
+
+.footer-copyright a {
+  text-decoration: none;
+}

@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e9edf0 !important;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+/* header */
+.header {
+  background-color: #5de0a3;
+}
+
+/* home */
+
+.container-md {
+  width: 100%;
+  height: 100%;
+  padding-top: 20px;
+}
+.home-slider {
+  width: 1040px;
+  height: 200px;
+  padding-left: 35px;
+}
+
+.home-product-new {
+  background-color: rgb(255, 255, 255);
+  width: 1040px;
+  margin-top: 20px !important;
+  margin-left: 10px !important;
+}
+.home-product-new-title {
+  display: block;
+  overflow: hidden;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 5px;
+}
+
+.home-product-discount {
+  margin-top: 20px !important;
+  margin-left: 10px !important;
+  padding-bottom: 10px !important;
+  background-color: rgb(255, 255, 255);
+  width: 1040px;
+  display: block;
+  overflow: hidden;
+}
+.home-product-discount-tile {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 5px;
+  margin-top: 7px;
+}
+
+.home-discount {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  text-align: center;
+  color: black;
+  font-size: 16px;
+  font-weight: 600;
+  height: 30px;
+  border: 1px;
+}
+
+.frame-product {
+  border: 0.1px solid #ececec;
+}
+.home-product-discount-img {
+  display: block;
+  width: 150px;
+  height: 120px;
+  margin: 0 auto;
+}
+.home-product-discount-name {
+  height: 50px;
+  overflow: hidden;
+  line-height: 1.3em;
+  font-size: 15px;
+  color: #333;
+  padding: 10px 0 0;
+}
+.home-product-discount-price-1 {
+  position: relative !important;
+  color: #757575;
+  text-decoration: line-through;
+  left: 5px;
+}
+
+.home-product-discount-price-2 {
+  position: relative !important;
+  top: -2px !important;
+  left: 10px;
+}
+
+.home-product-discount-button {
+  padding-bottom: 10px;
+  top: 3px;
+}
+
+.home-product-discount-button-icon {
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.home-product-discount-button-icon:hover {
+  color: red;
+}
+
+.home-product-all {
+  margin-top: 10px !important;
+  margin-left: 10px !important;
+  background-color: rgb(255, 255, 255);
+  width: 1040px;
+}

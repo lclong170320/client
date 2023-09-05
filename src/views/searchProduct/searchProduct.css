@@ -1,0 +1,17 @@
+.detail-product {
+  text-align: center;
+  position: relative;
+  left: 25px;
+  width: 1040px;
+}
+.detail-product-breadcrumbs {
+  padding-left: 15px;
+  text-decoration: none;
+}
+.detail-product-breadcrumbs .breadcrumb .breadcrumb-item a {
+  text-decoration: none;
+  color: darkorange;
+}
+.detail-product-breadcrumbs .breadcrumb .breadcrumb-item.active {
+  color: black !important;
+}

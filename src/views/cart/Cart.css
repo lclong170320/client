@@ -1,0 +1,140 @@
+.home-cart {
+  position: relative;
+  left: 25px;
+  background-color: white;
+  width: 1040px;
+  max-height: 500px;
+}
+
+.home-cart .col-sm-8 {
+  border-bottom: 1px solid rgb(187, 181, 181);
+}
+
+.home-cart-content {
+  position: relative;
+  left: 25px;
+  background-color: white;
+  width: 1040px;
+  
+}
+
+.home-cart-content-1 {
+  height: 135px;
+}
+.home-cart-content-product-title {
+  width: 90%;
+  margin-left: 10px;
+  max-height: 50px;
+  font-weight: 600;
+}
+
+.home-cart-content-product {
+  display: flex;
+  margin-top: 5px;
+  height: 120px;
+  border-bottom: 1px solid rgb(187, 181, 181);
+}
+
+.home-cart-content-product-img {
+  position: relative;
+  width: 85px;
+  height: 65px;
+}
+
+.home-cart-content-product-price {
+  position: relative;
+  text-align: right;
+  width: 80px;
+}
+
+.home-cart-content-product-price strong {
+  color: red;
+}
+
+.home-cart-content-product-price span {
+  text-decoration: line-through;
+  color: #9c9c9c;
+  font-size: 15px;
+}
+
+.home-cart-content-quantity {
+  position: relative;
+  bottom: 55px;
+  left: 90px;
+  width: 80%;
+}
+
+.home-cart-content-quantity .form-control {
+  width: 65px !important;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 5px !important;
+  text-align: center;
+}
+
+.home-cart-content-quantitynum {
+  display: flex;
+}
+
+.home-cart-content-quantity {
+  display: flex;
+}
+
+.home-cart-content-quantity .delete {
+  position: relative;
+  left: 35px;
+  text-decoration: none;
+  font-weight: 600;
+  border: none;
+  background-color: transparent;
+}
+
+.home-cart-content-2 button {
+  margin-top: 1px;
+  width: 100%;
+  height: 45px;
+  margin-bottom: 30px;
+}
+
+.noselect {
+  position: relative;
+  bottom: 3px;
+  line-height: 20px;
+  font-size: 35px;
+  border: none;
+  background-color: transparent;
+}
+
+.noselect-1 {
+  position: relative;
+  bottom: 3px;
+  line-height: 20px;
+  font-size: 30px;
+  border: none;
+  background-color: transparent;
+}
+
+.home-cart-content-2-price {
+  float: right;
+  width: 250px;
+  position: relative;
+  bottom: 15px;
+  font-size: 17px;
+}
+
+.home-cart-content-2-price label {
+  float: right;
+}
+
+.home-cart-content-2-price-3 .icon {
+  width: 30px;
+  height: 30px;
+}
+
+.card-none {
+  background-color: white;
+  width: 1000px;
+  height: 300px;
+  margin-left: 20px;
+  text-align: center;
+}

@@ -1,0 +1,33 @@
+.introduce {
+  background-color: white;
+  width: 1300px !important;
+  margin-left: 110px !important;
+}
+.introduce-2 {
+  background-image: url('../../../styles/img/gioithieu1.png');
+}
+
+.introduce-content-div {
+  margin-top: 10px;
+}
+
+.introduce-content-3-2 {
+  border: 1px solid black;
+  border-radius: 15px;
+  display: flex;
+  width: 60%;
+  box-shadow: 0 10px 18px 0 #dedede;
+  font-weight: 900;
+  font-size: 16px;
+  justify-content: space-evenly;
+  color: #008848;
+  padding: 10px 0;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.introduce-content-4-1 {
+  width: 60%;
+  padding: 10px 0;
+  margin: 0 auto;
+}

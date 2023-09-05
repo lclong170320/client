@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1508d5a4.css",
+    "main.js": "/static/js/main.652a3585.js",
+    "static/media/gitthanhtoan.gif": "/static/media/gitthanhtoan.69ad54236067a87374d8.gif",
+    "static/media/chieu-nay-khong-co-mua.gif": "/static/media/chieu-nay-khong-co-mua.0c10fb93b232b90dc9a7.gif",
+    "static/media/Cham-soc-khach-hang.png": "/static/media/Cham-soc-khach-hang.835e37ee58d3c0c52e17.png",
+    "static/media/gioithieu2.png": "/static/media/gioithieu2.68ec19098a55e96f505a.png",
+    "static/media/gioithieu1.png": "/static/media/gioithieu1.6fc3eda40b4e631f0ec4.png",
+    "static/media/no-img.png": "/static/media/no-img.cb5ef1dfb07ec4f4b274.png",
+    "index.html": "/index.html",
+    "main.1508d5a4.css.map": "/static/css/main.1508d5a4.css.map",
+    "main.652a3585.js.map": "/static/js/main.652a3585.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1508d5a4.css",
+    "static/js/main.652a3585.js"
+  ]
+}

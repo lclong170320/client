@@ -1,0 +1,32 @@
+.default-sidebar-wrapper {
+  width: 235px;
+  min-height: 1000px;
+  
+}
+
+.default-sidebar-menu {
+  font-weight: 600;
+}
+.default-sidebar-menu-icon {
+  position: relative;
+  bottom: 2px;
+  font-size: 20px;
+  right: 8px;
+}
+
+.item-menu:hover {
+  color: #00ac5b;
+  background-color: #cccccc;
+}
+
+.default-sidebar-menu-link {
+  text-decoration: none;
+}
+
+.item-menu-favorite {
+  height: 60px;
+}
+
+.item-menu-favorite-content:hover {
+  color: #cccccc;
+}

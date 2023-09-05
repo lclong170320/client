@@ -1,0 +1,19 @@
+.support {
+  background-color: white;
+  width: 1300px !important;
+  margin-left: 110px !important;
+}
+.support-1 {
+  border-bottom: 1px solid #000;
+}
+
+.support-2 {
+  line-height: 2;
+}
+
+.support-3 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  border: 1px solid rgb(84, 235, 46);
+}
